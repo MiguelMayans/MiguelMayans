@@ -1,4 +1,4 @@
-# Hi there, I'm Miguel Mayans 👋
+<h1 align="center">Hi 👋, I'm Miguel Mayans</h1>
 
 ## About Me
 
