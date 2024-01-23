@@ -1,7 +1,9 @@
 # Hi there, I'm Miguel Mayans 👋
 
 ## About Me
-- 🌱 Lover of technology and computing who one day lost his way to college and ended up venturing into the world of gastronomy, my other passion. I pour my heart and soul wherever I go, but fully aware that one does not get far alone. I seek to work on challenging projects with the right team and environment to foster my growth as a professional and as a developer.
+```typescript
+Lover of technology and computing who one day lost his way to college and ended up venturing into the world of gastronomy, my other passion. I pour my heart and soul wherever I go, but fully aware that one does not get far alone. I seek to work on challenging projects with the right team and environment to foster my growth as a professional and as a developer.
+```
 - 📫 All my projects here: [GitHub](https://github.com/MiguelMayans/)
 
 ## 💻 Tech Stack:
@@ -12,4 +14,4 @@
 - [e-mail](miguelmayansv@gmail.com)
 
 ## 📈 GitHub Stats
-!Miguel's GitHub stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMayans&theme=transparent&show_icons=true) 
