@@ -13,5 +13,3 @@ Lover of technology and computing who one day lost his way to college and ended 
 - [LinkedIn](www.linkedin.com/in/miguel-mayans)
 - [e-mail](miguelmayansv@gmail.com)
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMayans&theme=transparent&show_icons=true) 
